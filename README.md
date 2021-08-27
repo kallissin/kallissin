@@ -5,8 +5,8 @@
 
  <div>
   <a href="https://github.com/kallissin">
-  <img width="250em" src="https://github-readme-stats.vercel.app/api?username=kallissin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img   width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallissin&layout=compact&langs_count=7&theme=dracula&"/>
+  <img width="350em" src="https://github-readme-stats.vercel.app/api?username=kallissin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img   width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallissin&layout=compact&langs_count=7&theme=dracula&"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="teck-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
