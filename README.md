@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kallissin&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-### Estudando Desenvolvimento Web e adquirindo experiencia na Kenzie Academy Brasil, gosto de ler, correr, praticar alguns esportes e se divertir com familia e amigos.
+### Trabalhando como Desenvolvedor e aprimorando conhecimento em back end, gosto de ler, correr, praticar alguns esportes e se divertir com familia e amigos.
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Kelvin_Cantarino&color=f8efd4&style=for-the-badge&logo=GitHub">
 
