@@ -6,9 +6,9 @@
 
 <p>
 
-Estudando/trabalhando na **Kenzie Academy Brasil**<br/>
+Trabalhando na <a href="https://www.maistodos.com.br/" target="_blank">maisTODOS<a/>
 
-Eu sou desenvolvedor **Full Stack**.
+Eu sou desenvolvedor **Back End**.
 
 
 </p>
